@@ -7,7 +7,7 @@ This respository contains practical Prompts, Frameworks, and AI workflows for re
 
 |Prompt Techniques|Examples|
 |-------|------|
-|10x Better Prompt|[View Example](prompt/AI-Transformation-Strategy-Prompt.md)|
+|10x Better Prompt|[View Example](AI-Transformation-Strategy-Prompt.md)|
 |Act as or Role Prompt|[View Example](prompt/.md)]|
 |Formula Based Table Creation Smart Prompt|[View Example](prompt/.md)|
 |Step-by-Step Prompt|[View Example](prompt/.md)|
