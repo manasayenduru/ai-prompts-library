@@ -7,15 +7,15 @@ This respository contains practical Prompts, Frameworks, and AI workflows for re
 
 |Prompt Techniques|Examples|
 |-------|------|
-|10x Better Prompt|[View Example](prompt1/.md)|
-|Act as or Role Prompt|[View Example](prompt2/.md)]|
-|Formula Based Table Creation Smart Prompt|[View Example](prompt3/.md)|
-|Step-by-Step Prompt|[View Example](prompt4/.md)|
-|Summarizing Technique and Markdown Formating for smart prompts|[View Example](prompt5/.md)|
-|"Give Feedback to This" Smart Prompt Technique|[View Example](prompt6/.md)|
-|AI Critic Prompt|[View Example](prompt7/.md)|
-|Zero shot,1 Shot & Few Shots Prompt|[View Example](prompt7/.md)|
-|Jack of all Prompt|[View Example](prompt8/.md)|
+|10x Better Prompt|[View Example](prompt/AI-Transformation-Strategy-Prompt.md)|
+|Act as or Role Prompt|[View Example](prompt/.md)]|
+|Formula Based Table Creation Smart Prompt|[View Example](prompt/.md)|
+|Step-by-Step Prompt|[View Example](prompt/.md)|
+|Summarizing Technique and Markdown Formating for smart prompts|[View Example](prompt/.md)|
+|"Give Feedback to This" Smart Prompt Technique|[View Example](prompt/.md)|
+|AI Critic Prompt|[View Example](prompt/.md)|
+|Zero shot,1 Shot & Few Shots Prompt|[View Example](prompt/.md)|
+|Jack of all Prompt|[View Example](prompt/.md)|
 
 
 
