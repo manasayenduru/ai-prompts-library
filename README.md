@@ -8,7 +8,7 @@ This respository contains practical Prompts, Frameworks, and AI workflows for re
 |Prompt Techniques|Examples|
 |-------|------|
 |10x Better Prompt|[View Example](AI-Transformation-Strategy-Prompt.md)|
-|Act as or Role Prompt|[View Example](agentic-ai-workflow-designer)|
+|Act as or Role Prompt|[View Example](agentic-ai-workflow-designer-prompt.md)|
 |Formula Based Table Creation Smart Prompt|[View Example](prompt/.md)|
 |Step-by-Step Prompt|[View Example](prompt/.md)|
 |Summarizing Technique and Markdown Formating for smart prompts|[View Example](prompt/.md)|
