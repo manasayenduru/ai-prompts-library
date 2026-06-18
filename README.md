@@ -12,7 +12,7 @@ This respository contains practical Prompts, Frameworks, and AI workflows for re
 |Formula Based Table Creation Smart Prompt|[View Example](notion-schema-compiler-prompt.md)|
 |Summarizing Technique and Markdown Formating for smart prompts|[View Example](Meeting-intelligence-summariser-prompt.md)|
 |"Give Feedback to This" Smart Prompt Technique|[View Example](startup-pitch-deck-critic-prompt.md)|
-|AI Critic Prompt|[View Example](prompt/.md)|
+|AI Critic Prompt|[View Example](ai-cretic-engin-prompt.md)|
 |Zero shot,1 Shot & Few Shots Prompt|[View Example](prompt/.md)|
 |Jack of all Prompt|[View Example](prompt/.md)|
 
