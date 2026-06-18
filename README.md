@@ -10,7 +10,7 @@ This respository contains practical Prompts, Frameworks, and AI workflows for re
 |10x Better Prompt|[View Example](AI-Transformation-Strategy-Prompt.md)|
 |Act as or Role Prompt|[View Example](agentic-ai-workflow-designer-prompt.md)|
 |Formula Based Table Creation Smart Prompt|[View Example](notion-schema-compiler-prompt.md)|
-|Summarizing Technique and Markdown Formating for smart prompts|[View Example](prompt/.md)|
+|Summarizing Technique and Markdown Formating for smart prompts|[View Example](Meeting-intelligence-summariser-prompt.md)|
 |"Give Feedback to This" Smart Prompt Technique|[View Example](prompt/.md)|
 |AI Critic Prompt|[View Example](prompt/.md)|
 |Zero shot,1 Shot & Few Shots Prompt|[View Example](prompt/.md)|
