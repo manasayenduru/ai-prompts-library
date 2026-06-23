@@ -13,7 +13,7 @@ This respository contains practical Prompts, Frameworks, and AI workflows for re
 |Summarizing Technique and Markdown Formating for smart prompts|[View Example](Meeting-intelligence-summariser-prompt.md)|
 |"Give Feedback to This" Smart Prompt Technique|[View Example](startup-pitch-deck-critic-prompt.md)|
 |AI Critic Prompt|[View Example](ai-cretic-engin-prompt.md)|
-|Zero shot,1 Shot & Few Shots Prompt|[View Example](prompt/.md)|
+|Zero shot,1 Shot & Few Shots Prompt|[View Example](spam-vs-nonspam-prompt.md)|
 |Jack of all Prompt|[View Example](prompt/.md)|
 
 
