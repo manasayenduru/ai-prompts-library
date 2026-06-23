@@ -14,7 +14,7 @@ This respository contains practical Prompts, Frameworks, and AI workflows for re
 |"Give Feedback to This" Smart Prompt Technique|[View Example](startup-pitch-deck-critic-prompt.md)|
 |AI Critic Prompt|[View Example](ai-cretic-engin-prompt.md)|
 |Zero shot,1 Shot & Few Shots Prompt|[View Example](spam-vs-nonspam-prompt.md)|
-|Prompt Creator Engine|[View Example](prompt/.md)|
+|Prompt Creator Engine|[View Example](universal-prompt-builder-prompt.md)|
 
 
 
